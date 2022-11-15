@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668057662 source:f:\iti\c\day6\assigment\day6-task1\main.c
+	<stdio.h>
+	<stdlib.h>
+
